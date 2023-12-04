@@ -1,24 +1,32 @@
-﻿pwd- current location
+﻿pwd- current directory
 
-ls- list items in folder
+ls- list of files in directory
 
-ls -l  -List more information about a folder
+ls -l  -List of files in directory with more information
 
 cd {folder to go to} – changes directory
 
 cd .. - go back
 
-clear – clearing everything on the terminal
+clear – clearing all
 
-mkdir {new foldername} - make directory/creates new folder
+mkdir {new foldername} - create directory
 
-touch {filename) – creates new file
+touch {filename} – creates new file
 
-cat {filename} – read contents in a file
+nano - edit file 
+
+echo- displays info to shell
+
+cat {filename} – read file contents
 
 rm {filename} – remove a filename
 
-rm -rf {foldername} – remove folder with its stuff
+{command} --help - displays help menu
+
+mv {filename} --moving file/folder to another place
+
+rm -rf {foldername} – remove directory
 
 ls - -help – a list of information on what can be done with ls
 
